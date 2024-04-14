@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Sameer Walke!</h1>
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="https://github.com/sameer11999/sameer11999/blob/main/Colorful%20Pastel%20Modern%20Personal%20LinkedIn%20Banner.png"> </div>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
