@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Sameer Walke!</h1>
-<div align="center"> <img src="Uploading Colorful Pastel Modern Personal LinkedIn Banner.png"> </div>
+<div align="center"> <img src="C:\Users\samee\Downloads\Colorful Pastel Modern Personal LinkedIn Banner.png"> </div>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
