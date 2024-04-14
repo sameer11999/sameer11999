@@ -1,5 +1,12 @@
 <h1 align="center">Hey Everyone 👋, I'm Sameer Walke!!</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer11999&label=Profile%20views&color=0e75b6&style=flat" alt="sameer11999" /> </p>
 
