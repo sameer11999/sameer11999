@@ -1,6 +1,7 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Sameer Walke!</h1>
-<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.andrewhil.es%2Fgeneral%2F2020%2F03%2F09%2Fsoftware-engineering-an-industry-of-opportunity.html&psig=AOvVaw2tORkh24Z2rBRj5y6ipcLt&ust=1713174876649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCC3vG3wYUDFQAAAAAdAAAAABAE.png"> </div>
+<div align="center"> <img src="![Uploading Colorful Pastel Modern Personal LinkedIn Banner.png…]()
+.png"> </div>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
