@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sameerwalke3" target="blank"><img src="https://img.shields.io/twitter/follow/sameerwalke3?logo=twitter&style=for-the-badge" alt="sameerwalke3" /></a> </p>
 
-- 🚀 I'm currently upskilling in **Data Structures & Algorithm in JAVA**
+- “ **Before software should be reusable, it should be usable😁"**
+
+- 🚀 I'm currently upskilling in **Data Structures & Algorithm;**
+
+- 👨‍💻 I'm currently working on **something cool;**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameer11999](https://github.com/sameer11999)
 
@@ -31,8 +35,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer11999&" alt="sameer11999" /></p>
 
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sameer11999&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 📈 My Github Contributions
-![Snake animation](https://github.com/sameer11999/sameer11999/blob/output/github-contribution-grid-snake.svg)
