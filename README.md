@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sameerwalke9757@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jxxke456mY5bRew71YobuWrbn-v7f6SX/view?usp=sharing](https://drive.google.com/file/d/1Jxxke456mY5bRew71YobuWrbn-v7f6SX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/120fhHUlbvoy2G7tN2B15QBxAhuVN_guR/view?usp=sharing](https://drive.google.com/file/d/120fhHUlbvoy2G7tN2B15QBxAhuVN_guR/view?usp=sharing)
 
 - ⚡ Fun fact **TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer🙄**
 
